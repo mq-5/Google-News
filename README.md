@@ -1,18 +1,6 @@
 # CoderSchool FTW - _ Quyen's Google News _
 
-Created with love by: <Quyen>
-
-One or two sentence summary of your project.
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories.
-
-To create a GIF, use [LiceCap](http://www.cockos.com/licecap/), [RecordIt](http://www.recordit.co), or [Loom](http://www.useloom.com), and link the image here in the markdown.
-
-```
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-```
+Created with love by: **Quyen**
 
 ## User Stories
 
@@ -45,7 +33,7 @@ Feel free to experiment with stories here. They are roughly sorted in order of e
 
 ## Time Spent and Lessons Learned
 
-Time spent: **X** hours spent in total.
+Time spent: **5** hours spent in total.
 
 Describe any challenges encountered while building the app.
 
